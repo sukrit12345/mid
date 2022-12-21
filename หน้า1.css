@@ -1,0 +1,44 @@
+.a{
+    position: fixed;  
+   top: 10%;  
+   left: 80%;  
+   transform: translate(-50%, -50%);
+}
+.กล่องหลัก{
+    position: fixed;  
+    top: 30%;  
+    left: 80%;  
+    transform: translate(-50%, -50%);
+ }
+
+.b{
+    position: fixed;  
+    top: 50%;  
+    left: 80%;  
+    transform: translate(-50%, -50%);
+    background-color: rgb(142, 139, 138);
+    border-radius: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+  
+.c{
+    position: fixed;  
+    top: 55%;  
+    left: 80%;  
+    transform: translate(-50%, -50%);
+    padding-left: 5%;
+    padding-right: 5%;
+  
+}
+.d{
+    position: fixed;  
+    top: 65%;  
+    left: 80%;  
+    transform: translate(-50%, -50%);
+    border: 5px;
+    padding-left: 5%;
+    padding-right: 5%;
+    border-color: blue;
+  
+}
